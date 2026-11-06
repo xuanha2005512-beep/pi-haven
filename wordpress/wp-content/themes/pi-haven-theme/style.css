@@ -1,0 +1,23 @@
+
+/*
+Theme Name: Pi Haven Theme
+Theme URI: https://pihaven.io.vn
+Author: Pi Haven Development Team
+Description: WordPress theme skeleton for Pi Haven Homestay.
+Version: 0.1.0
+Requires PHP: 8.0
+Text Domain: pi-haven
+*/
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #faf8f4;
+    color: #25313d;
+}
+
+.pihaven-container {
+    max-width: 1100px;
+    margin: 40px auto;
+    padding: 24px;
+}
